@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chaudhary Aman</h1>
+<h1 align="center">Hi 👋, I'm チャウダリ　アマン</h1>
 <h3 align="center">A passionate software developer from japan</h3>
 
 - 🌱 I’m currently learning **web devlopment in springboot,react js**
